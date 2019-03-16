@@ -1,3 +1,6 @@
 abc
 
+HEAD
 Some change for user2
+
+Some change for user1
