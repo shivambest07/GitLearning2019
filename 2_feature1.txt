@@ -1,3 +1,7 @@
 New file for sub branch
 
+HEAD
 something for conflict
+
+Making few changes to understand conflict
+feature1
