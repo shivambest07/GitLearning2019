@@ -1,1 +1,3 @@
 New file for sub branch
+
+Making few changes to understand conflict
